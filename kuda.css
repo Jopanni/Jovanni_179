@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    background-color: cadetblue;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+table{
+    margin: 20px;
+}
+
+th{
+    height: 4rem;
+    column-span: 4rem;
+    width: 8rem;
+    word-wrap: break-word;
+    white-space: nowrap;  
+    font-style: bold;
+} 
+
+
+th p{
+    font-size: medium;
+    margin-top: 0%;  
+    font-style: oblique;  
+    margin-bottom: 0%;    
+}
+
+
